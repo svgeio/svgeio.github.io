@@ -25,10 +25,9 @@ title:                 Emmanuel Savage
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  My name's Manny and this is my project blog!
-  I'm a mechatronic engineering student with 10+ years of IT ops experience.
-  I currently live, work, and study in Brisbane, Australia.
-
+  10+ years of IT ops has shown me that you can never stop learning.
+  I need to know how things work and am ever searching for the satisfaction that comes from solving a problem.
+  I currently live, work, and study (mechatronic engineering) in Brisbane, Australia.
 # A shorter description for the sidebar.
 tagline:               Mechatronic Engineering
 
