@@ -8,7 +8,7 @@ hide_description: true
 ---
 
 # About
-![256x256](/assets/img/about/Headshot_256x256.jpg "Emmanuel Savage"){:
+![Emmanuel Savage](/assets/img/about/Headshot_256x256.jpg "That's me!"){:
   style="
     border-radius:100%;
     display: block;

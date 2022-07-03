@@ -26,24 +26,24 @@ Steps required to switch to Nemo on a fresh Pop!_OS installation are:
 1. Open a terminal (*Super + T*).
 
 2. Update the package manager:  
-```
+```shell
 apt update
 ```
 3. Install Nemo:  
-```
+```shell
 sudo apt install nemo
 ```
 4. Set Nemo as the default application to handle directories:  
-```
+```shell
 xdg-mime default nemo.desktop inode/directory application/x-gnome-saved-search
 ```
 This can be verified by running:  
-```
+```shell
 xdg-mime query default inode/directory
 ```
 A successful update will show `nemo.desktop`
 5. Update dbus to use Nemo as the default file manager:  
-```
+```shell
 mkdir -p ~/.local/share/dbus-1/services
 ln -s /usr/share/dbus-1/services/nemo.FileManager1.service ~/.local/share/dbus-1/services/
 ```
