@@ -5,8 +5,6 @@ description: >
   Switching the default file manager on Pop!_OS 22.04 to Nemo.
 categories: [kbase]
 tags:       [pop!_os, linux, sysops]
-sitemap: false
-hide_last_modified: false
 ---
 # Pop!_OS - Nemo File Manager
 
