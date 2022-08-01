@@ -45,7 +45,7 @@ aws-mfa --duration 43200 --device arn:aws:iam::123456789112:mfa/username --profi
 >: Set code to expire after 12 hours (43200 seconds).
 >
 >\-\-device
->: The arn for the user's MFA device in AWS. Can be found in the AWS console on the Security Credentials page.
+>: The arn for the user's MFA device in AWS. Can be found in the AWS console on the [Security Credentials](https://us-east-1.console.aws.amazon.com/iam/home?#/security_credentials{:target="_blank"}) page.
 >
 >\-\-profile
 >: An existing AWS long term profile to enable MFA on.
