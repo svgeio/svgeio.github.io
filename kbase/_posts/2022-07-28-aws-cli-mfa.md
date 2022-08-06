@@ -6,7 +6,8 @@ description: >
 categories: [kbase]
 tags:       [aws, multi-os, sysops]
 ---
-# AWS CLI - Connect with MFA
+1. this ordered seed list will be replaced by the toc
+{:toc}
 
 ## Purpose
 To follow good security practices, it is recommended to enforce Multi-Factor Authentication (MFA) for all IAM user accounts within an AWS account. To execute commands via the AWS CLI/SDK’s when MFA has been enforced, it is then required to authenticate with MFA before those commands can be executed successfully. The following post outlines a process to facilitate easier authentication using MFA via the CLI/SDK interfaces than the official AWS solution.

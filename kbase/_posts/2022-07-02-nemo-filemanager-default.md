@@ -6,7 +6,8 @@ description: >
 categories: [kbase]
 tags:       [pop!_os, linux, sysops]
 ---
-# Pop!_OS - Nemo File Manager
+1. this ordered seed list will be replaced by the toc
+{:toc}
 
 ## Purpose
 The following post documents the process to switch from the default GNOME Files (Nautilus) application to Nemo on Pop!_OS 22.04.
